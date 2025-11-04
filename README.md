@@ -61,22 +61,34 @@ I'm a passionate **Web Developer** from Germany, building innovative apps, games
 ## 🧰 Tools & Technologies
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=222)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
+![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=fff)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=fff)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=fff)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=fff)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=fff)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=222)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 ![AI](https://img.shields.io/badge/-AI-FF6F00?logo=OpenAI&logoColor=fff)
 
 ---
 
-## 📊 GitHub Stats
-
-![Jens Duttke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jens-duttke&show_icons=true&theme=default)
-
----
-
 ## 🧑‍💻 More About Me
 
-I'm continuously exploring new areas - whether it's developing browser-based games, creating tools for PlayStation emulators, or building solutions for smartwatches. My curiosity extends to 3D printing, laser cutting, 3D photography, and even learning to groove on the E-Bass.
+My approach to software development is driven by my diverse hobbies and interests. When I discover a gap or missing functionality in an area I'm passionate about, I build the tools to fill it myself.
+
+This philosophy has led me to create Garmin data fields because I wanted better functionality while hiking, develop audio and transcription tools to support my E-Bass practice, and build a 3D photo editing app for the Leia LumePad 2 when I needed better image processing capabilities. Similarly, my longtime interest in photography and image editing naturally evolved into exploring AI-based image generation today.
+
+Whether it's browser-based games, a hex editor, or specialized tools for niche hardware - each project emerges from a real need in one of my pursuits. This intersection of personal passion and practical problem-solving keeps my work meaningful and continuously pushes me to learn new technologies.
 
 ---
 
