@@ -4,11 +4,6 @@ I'm a passionate **Web Developer** from Germany, building innovative apps, games
 
 ---
 
-> **Hinweis:**  
-> Mein derzeitiger Arbeitgeber schließt seinen Standort in Deutschland. Daher bin ich offen für neue berufliche Herausforderungen bei einem Unternehmen in Deutschland. Ich freue mich über Ihre Nachricht!
-
----
-
 ## 🚀 About Me
 
 - 💻 **Profession:** Web Developer
@@ -24,6 +19,8 @@ I'm a passionate **Web Developer** from Germany, building innovative apps, games
 
 - [**HexEd.it**](https://hexed.it/)  
   Advanced online hex editor for working with binary files - right in your browser.
+- [**Oku3D**](https://oku3d.com/)  
+  Video player with AI-powered 2D-to-3D conversion for glasses-free 3D displays.
 - [**PhotoME**](https://www.photome.de/)  
   Powerful tool for viewing and editing digital photo metadata, trusted worldwide.
 - [**JSQR**](https://jsqr.de)  
@@ -86,7 +83,7 @@ I'm a passionate **Web Developer** from Germany, building innovative apps, games
 
 My approach to software development is driven by my diverse hobbies and interests. When I discover a gap or missing functionality in an area I'm passionate about, I build the tools to fill it myself.
 
-This philosophy has led me to create Garmin data fields because I wanted better functionality while hiking, develop audio and transcription tools to support my E-Bass practice, and build a 3D photo editing app for the Leia LumePad 2 when I needed better image processing capabilities. Similarly, my longtime interest in photography and image editing naturally evolved into exploring AI-based image generation today.
+This philosophy has led me to create Garmin data fields because I wanted better functionality while hiking, develop audio and transcription tools to support my E-Bass practice, and build 3D media tools - from a photo editor for the Leia LumePad 2 to Oku3D, an AI-powered video player for glasses-free 3D displays. Similarly, my longtime interest in photography and image editing naturally evolved into exploring AI-based image generation today.
 
 Whether it's browser-based games, a hex editor, or specialized tools for niche hardware - each project emerges from a real need in one of my pursuits. This intersection of personal passion and practical problem-solving keeps my work meaningful and continuously pushes me to learn new technologies.
 
