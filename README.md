@@ -17,10 +17,12 @@ I'm a passionate **Web Developer** from Germany, building innovative apps, games
 
 ### Flagship Tools & Apps
 
+- [**Usage Monitor for Claude**](https://github.com/jens-duttke/usage-monitor-for-claude)  
+  Lightweight Windows system tray app that monitors your Claude rate limits - showing session and weekly quota usage.
+- [**Oku3D**](https://oku3d.com/)  
+  Media player with real time AI-powered 2D-to-3D conversion that turns any video or image into stereoscopic 3D - for 3D displays and VR headsets.
 - [**HexEd.it**](https://hexed.it/)  
   Advanced online hex editor for working with binary files - right in your browser.
-- [**Oku3D**](https://oku3d.com/)  
-  Video player with AI-powered 2D-to-3D conversion for glasses-free 3D displays.
 - [**PhotoME**](https://www.photome.de/)  
   Powerful tool for viewing and editing digital photo metadata, trusted worldwide.
 - [**JSQR**](https://jsqr.de)  
