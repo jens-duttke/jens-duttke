@@ -24,7 +24,7 @@ The tools and apps that found an audience of their own.
   Media player with real time AI 2D-to-3D conversion. Turns any video or image into stereoscopic 3D for 3D displays and VR headsets.
 - [**HexEd.it**](https://hexed.it/)  
   Hex editor for binary files, running entirely in your browser.
-- [**Stereo Photo Optimizer**](https://forums.leialoft.com/t/stereo-photo-optimizer-new-app-for-sbs-3d-image-correction/6181)  
+- [**Stereo Photo Optimizer**](https://www.duttke.de/de/stereo-photo-optimizer/)  
   Android app for correcting side-by-side 3D photos: convergence, colour temperature, noise and sharpness. Built for the Leia LumePad 2 and adopted by its community.
 - [**PhotoME**](https://www.photome.de/)  
   Viewer and editor for digital photo metadata, used around the world.
